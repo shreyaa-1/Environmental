@@ -1,0 +1,23 @@
+.about{
+    color:green;
+    font-size:3rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    padding-top: 1.4rem;
+}
+
+.text1{
+    color:black;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+.carousel-item {
+    text-align: center;
+}
+
+.plant-carousel{
+    opacity:0.3;
+}
