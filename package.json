@@ -2,7 +2,7 @@
   "name": "environmental",
   "homepage": "https://shreyaa-1.github.io/Environmental",
   "version": "0.1.0",
-  "private": false,
+  "private": "false",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
